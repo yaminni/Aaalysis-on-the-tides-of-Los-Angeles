@@ -1,0 +1,7 @@
+panda
+numpy
+matplotlib
+seaborn
+sklearn
+statsmodels.api
+google.colab
